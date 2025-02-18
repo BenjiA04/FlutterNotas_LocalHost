@@ -8,6 +8,8 @@ El generador de notas tiene como objetivo facilitar la creación y organización
 
 El proyecto está construido con Flutter, lo que permite que la aplicación funcione en múltiples plataformas, incluyendo dispositivos Android e iOS, y ofrece la capacidad de almacenar datos localmente, proporcionando una experiencia más fluida y accesible.
 
+### Getting Started
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
